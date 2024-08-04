@@ -1,1 +1,4 @@
-# Verbatim-Send-Doc-Creator
+# Verbatim Send Doc Creator
+
+## Credits
+* Thanks to Truf for creating and providing the original macro this macro is based on.
