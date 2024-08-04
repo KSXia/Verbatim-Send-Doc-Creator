@@ -1,4 +1,4 @@
-' SendDoc Creator v5.0.0---MacOS---Analytic Deleter and Title Copier
+' SendDoc Creator v5.0.0---Universal---Analytic Deleter and Title Copier
 ' https://github.com/KSXia/Verbatim-Send-Doc-Creator/tree/MacOS---Analytic-Deleter-and-Title-Copier
 ' Updated on 2024-08-03
 ' Thanks to Truf for providing the original version of the macro!
